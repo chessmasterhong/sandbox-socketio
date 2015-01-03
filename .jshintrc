@@ -23,6 +23,7 @@
 
     // Custom globals
     "globals": {
+        "define": true,
         "require": true
     }
 }
