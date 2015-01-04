@@ -7,5 +7,6 @@ require.config({
 });
 
 require([
+    'core',
     'socket-handler'
 ]);
